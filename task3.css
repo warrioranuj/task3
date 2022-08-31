@@ -1,0 +1,22 @@
+h1{
+    display: inline;
+}
+h2{
+    position:absolute;
+    left: 150px;
+    top:300px;
+}
+img{
+    position:absolute;
+    right:50px;
+    z-index:-1;
+}
+
+p{
+    font-size: 20px;
+}
+<div class="flex-container">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        </div>
